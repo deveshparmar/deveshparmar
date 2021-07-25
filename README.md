@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshparmar
-- 👀 I’m interested in competitive programming and in full stack devlopment
-- 🌱 I’m currently learning competitve programming
+- 👀 I’m interested in competitive programming and android devlopment
+- 🌱 I’m currently learning competitve programming and java
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
 want to be cp!.
 
