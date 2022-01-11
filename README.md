@@ -12,7 +12,7 @@ want to be cp!.
 <p align="center">
  <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/devesh-parmar-875990200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjgX49vLExJjX6XAdoUf1yIeYkHGbJoVWo5SkKj4h4QbMhhciGUwu8uSzfovfu2tuQyhc&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
@@ -28,4 +28,6 @@ want to be cp!.
 deveshparmar/deveshparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align ="center">
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deveshparmar&theme=radical)
+ </p>
