@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 🧰 Github Stats:
-<p align="center">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=deveshparmar&theme=radical)
- </p>
+
 
