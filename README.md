@@ -10,9 +10,11 @@ want to be cp!.
 
 
 <p align="center">
- <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/devesh-parmar-875990200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb97VWX9wC8UBAJ5wNumqZ2JImXGqtQx3Anw&usqp=CAU" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://g.dev/parmardevesh18"> <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="Googl Developers" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://stackoverflow.com/users/15511232/devesh-parmar" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 <br />
