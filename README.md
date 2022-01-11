@@ -12,7 +12,7 @@ want to be cp!.
 <p align="center">
  <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/devesh-parmar-875990200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTRdnDiESe_tkye1hqzAJJg56erlIriA57BQ&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb97VWX9wC8UBAJ5wNumqZ2JImXGqtQx3Anw&usqp=CAU" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
