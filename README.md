@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshparmar
 - 👀 I’m interested in competitive programming and android development
-- 🌱 I’m currently learning DSA,Java and Flutter
+- 🌱 I’m currently learning DSA,Java and ML
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
 - I am ready to collab for any android development projects.
 want to be cp!.
