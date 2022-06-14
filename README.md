@@ -10,13 +10,15 @@
 
 
 <p align="center">
- <a href="https://www.linkedin.com/in/devesh-parmar-875990200/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb97VWX9wC8UBAJ5wNumqZ2JImXGqtQx3Anw&usqp=CAU" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://g.dev/parmardevesh18"> <img src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="Googl Developers" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="https://stackoverflow.com/users/15511232/devesh-parmar" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/devesh-parmar-875990200/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/linkedin(2).png" alt="LinkedIn" height="40" style="vertical-align:top; margin:5px"></a>
+ <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/gmail.png" alt="Gmail" height="40" style="vertical-align:top; margin:5px"></a>
+ <a href="https://g.dev/parmardevesh18"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/google(2).png" alt="Googl Developers" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://stackoverflow.com/users/15511232/devesh-parmar" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/stackoverflow.png" alt="StackOverflow" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/deveshparmar" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/github(1).png" alt="Github" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://leetcode.com/deveshparmar2003/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/leetcode(1).png" alt="Leetcode" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.hackerrank.com/deveshparmar2003" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/hackerrank(1).png" alt="Hackerrank" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.codechef.com/users/ug_dev2003" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-codechef-64.png" alt="Codechef" height="40" style="vertical-align:top; margin:4px"> </a>
 </p>
-
 <br />
 
 ## 🧰 Languages and Tools:
