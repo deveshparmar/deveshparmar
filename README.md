@@ -39,6 +39,16 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧮 Github Stats:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=deveshparmar&theme=radical)
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshparmar&show_icons=true&theme=radical)](https://github.com/deveshparmar?tab=repositories)
 
 
+## Most Used Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshparmar&layout=compact&theme=radical)](https://github.com/deveshparmar?tab=repositories)
+
+## Insights of my projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshparmar&repo=Machine-Learning&theme=radical)](https://github.com/deveshparmar/Machine-Learning)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshparmar&repo=My-Toast-Library&theme=radical)](https://github.com/deveshparmar/My-Toast-Library)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=deveshparmar&repo=LetsGossip-ChatApp&theme=radical)](https://github.com/deveshparmar/LetsGossip-ChatApp)
