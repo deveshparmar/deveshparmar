@@ -2,8 +2,9 @@
 - 👀 I’m interested in Machine Learning and Android Development
 - 🌱 I’m currently learning DSA,Java and ML
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
-- I am ready to collab for any android development projects.
-- Want to become Data Scientist.
+- 👉 I am ready to collab for any android development projects.
+- 💻 Want to become Data Scientist.
+- 🔗 connect me @deveshparmar2003@gmail.com
 
 
 ## ✉️ Find me on:
@@ -29,6 +30,9 @@
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/visual-studio-code.png" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/jupyter.png" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-firebase-64.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/mysql(1).png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-mongodb-64.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
 
