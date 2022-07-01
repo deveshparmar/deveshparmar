@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Android Development
 - 🌱 I’m currently learning DSA,Java and ML
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
-- 👉 I am ready to collab for any android development projects.
+- 👉 I am ready to collab for any Machine Learning, Data Science and Android Development projects.
 - 💻 Want to become Data Scientist.
 - 🔗 connect me @deveshparmar2003@gmail.com
 
