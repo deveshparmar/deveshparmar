@@ -26,8 +26,10 @@
 <p align="center">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/deveshparmar/deveshparmar/blob/main/android-studio.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/deveshparmar/deveshparmar/blob/main/visual-studio-code.png" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-intellij-idea-64.png" alt="IntelliJ Idea" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-pycharm-64.png" alt="Pycharm" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-android-studio-64.png" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-visual-studio-code-2019-64.png" alt="Visual Studio Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/jupyter.png" alt="Jupyter Notebook" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/eclipse.png" alt="Eclipse" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/deveshparmar/deveshparmar/blob/main/icons8-firebase-64.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
