@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deveshparmar
 - 👀 I’m interested in Machine Learning and Android Development
-- 🌱 I’m currently learning DSA,Java and ML
+- 🌱 I’m currently learning DSA, ML, DL
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
 - 👉 I am ready to collab for any Machine Learning, Data Science and Android Development projects.
 - 💻 Want to become Data Scientist.
