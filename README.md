@@ -3,7 +3,7 @@
 - 🌱 I’m currently practicing DSA, ML, DL
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
 - 👉 Looking forward to collab for any Machine Learning, Data Science and Android Development projects.
-- 💻 Want to become Data Scientist.
+- 💻 Want to become ML Engineer.
 - 🔗 Connect me @deveshparmar2003@gmail.com
 
 
