@@ -42,6 +42,11 @@
 deveshparmar/deveshparmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## 👽 Leetcode:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/deveshparmar2003?theme=nord)
+
 ## 🌟 Badges:
 
 [![@tesla_18's Holopin board](https://holopin.me/tesla_18)](https://holopin.io/@tesla_18)
