@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deveshparmar
 - 👀 I’m interested in Core Java Development, Natural Language Processing, Machine Learning and Android Development
-- 🌱 I’m currently practicing DSA, ML, NLP
+- 🌱 I’m currently practicing DSA, Backend development, ML, NLP
 - 💞️ I’m pursuing Btech Computer engineering from Pandit Deendayal Energy University
-- 👉 Looking forward to collab for any Machine Learning, NLP and Android Development projects.
+- 👉 Looking forward to collab for any Backend, Machine Learning, NLP and Android Development projects.
 - 💻 Want to become SDE
 - 🔗 Connect me @deveshparmar2003@gmail.com
 
