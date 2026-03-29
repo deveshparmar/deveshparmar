@@ -4,7 +4,7 @@
 - 💞️ I pursued Btech in Computer engineering from Pandit Deendayal Energy University
 - 👉 Looking forward to collab for any Backend, Machine Learning, NLP and Android Development projects.
 - 💻 SDE @ Educational Initiatives
-- 🔗 Connect me @deveshparmar2003@gmail.com
+- 🔗 Connect me https://devesh-parmar.cloud/
 
 
 ## ✉️ Find me on:
